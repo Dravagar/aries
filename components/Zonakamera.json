@@ -1,0 +1,60 @@
+  [
+        {
+            "title":"Kamera",
+            "detail_kamera":{
+                "id_kamera":"Kam1",
+                "gambar_kamera":"/images/kam1.jpeg",
+                "nama_kamera":"Fujifilm XA60",
+                "harga_kamera":"Rp 14.500.000,-"
+            }
+        },
+
+        {
+            "detail_kamera":{
+                "id_kamera":"Kam2",
+                "gambar_kamera":"/images/kam2.jpeg",
+                "nama_kamera":"Canon Eos 5D",
+                "harga_kamera":"Rp 8.000.000.-"
+            }
+        },
+
+        {
+            "detail_kamera":{
+                "id_kamera":"Kam3",
+                "gambar_kamera":"/images/kam3.jpeg",
+                "nama_kamera":"Sony A6000",
+                "harga_kamera":"Rp 10.000.000.-"
+            }
+        },
+
+        {
+            "title":"Action Cam",
+            "detail_actkamera":{
+                "id_actkamera":"Act1",
+                "gambar_actkamera":"/images/act1.jpeg",
+                "nama_actkamera":"GoPro Hero 6",
+                "harga_actkamera":"Rp 7.500.000.-"
+            }
+        },
+
+        {
+            "title":"Action Cam",
+            "detail_actkamera":{
+                "id_actkamera":"Act2",
+                "gambar_actkamera":"/images/act2.jpeg",
+                "nama_actkamera":"Xiaomi Yi 5",
+                "harga_actkamera":"Rp 4.000.000.-"
+            }
+        },
+
+        {
+            "title":"Action Cam",
+            "detail_actkamera":{
+                "id_actkamera":"Act3",
+                "gambar_actkamera":"/images/act3.jpeg",
+                "nama_actkamera":"Bpro P40",
+                "harga_actkamera":"Rp 2.000.000.-"
+            }
+        }
+
+    ]
